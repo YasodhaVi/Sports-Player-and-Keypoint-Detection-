@@ -1,0 +1,34 @@
+Important requirements and Instructions
+
+Author: DTS2433 R. D. Y. Vimukthi
+**************************************************************************************************************
+
+The project is divided to two sections
+cricket-player-detection
+player-keypoint-detection
+
+-----------------------------------------------------------------------------------------------------------------
+cricket-player-detection has two colab notebooks.
+ 
+First one for data preprocessing named as "Data Preprocessing.ipynb"
+Instructions to run this notebook:Please upload the "cricket-player-detection" folder (which is shared in GitHub) before executing the following colab file. The folder contains three sub-folders train, valid, and test, each containing two sub-folders. One for images and one for annotated labels with 5 values for each bounding box (class and 4 corner values of the bounding box)
+
+Second one for training and evaluation named as "Model training and evaluation using YOLOv8.ipynb"
+Instruction to run this notebook: Please upload the "cricket-player-detection" folder (which is shared in GitHub) before executing the following colab file. The folder contains three sub-folders train, valid, and test, each containing two sub-folders. One for images and one for annotated labels with 5 values for each bounding box (class and 4 corner values of the bounding box)
+Please ensure data.yaml file is available in the current directory (already available with the dataset)
+Please ensure Dependencies are installed, libraries are imported
+Please include videos for testing (detecting players on a video stream) in "videos" folder in the current directory
+
+Dataset, outputs, two colab notebooks, all are available at this google folder:
+https://drive.google.com/drive/folders/1eCP6O7SVcnp5Dt7Eg2hepogDoxjjQWxf?usp=sharing
+
+-----------------------------------------------------------------------------------------------------------------
+player-keypoint-detection has one colab notebook named as "Player Keypoint Detection.ipynb"
+
+Instructions to run this notebook: Please upload the cricket player images folder for player keypoint detection and change the path in "source" in code cell 5.
+Please ensure best YOLOv8 model for player detection is uploaded at "content/runs/pose/predict", if you are predicting keypoints on top of detected players (no need if the player detection is conducted from the scratch along with keypoint detection)
+Ensure that Dependencies are installed, and libraries are imported
+
+Dataset, outputs, colab notebook, all are available at this google folder:
+https://drive.google.com/drive/folders/1cPv5evSBbnai6xsh4yCKbgoJ_UyHMFb9?usp=sharing
+

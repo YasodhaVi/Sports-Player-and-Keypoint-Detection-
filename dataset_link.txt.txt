@@ -1,0 +1,20 @@
+Important Links
+
+Author: DTS2433 R. D. Y. Vimukthi
+**************************************************************************************************************************
+
+Folder containing train, test, valid data for player detection model (also contains notebook files)- 
+https://drive.google.com/drive/folders/1eCP6O7SVcnp5Dt7Eg2hepogDoxjjQWxf?usp=sharing
+---------------------------------------------------------------------------------------------------------------------------
+
+Folder with output samples with players detected on test data (frames) and video streams - 
+https://drive.google.com/drive/folders/1DaUwuNNxeSyXiVzwRTarXcF5Eq-wZcC_?usp=sharing
+---------------------------------------------------------------------------------------------------------------------------
+
+Key point detection dataset and Colab notebook - 
+https://drive.google.com/drive/folders/1cPv5evSBbnai6xsh4yCKbgoJ_UyHMFb9?usp=sharing
+---------------------------------------------------------------------------------------------------------------------------
+
+Key point detection output sample with detected (and labelled) key points on test frames - 
+https://drive.google.com/drive/folders/13mIqsWdLj6pfkbVmSw0ZeGUOzWh6riMO?usp=sharing
+---------------------------------------------------------------------------------------------------------------------------
