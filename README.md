@@ -122,23 +122,29 @@ Skeleton Visualization
 # Results
 
 ## Player Detection Examples
-> 📷 **Insert 2 images here**
+![PlayerDetectioSample1](images/det1.png)
+![PlayerDetectioSample2](images/det2.png)
 
 ---
 
 ## Video Detection
-> 📷 **Insert 1 screenshot from a processed video**
+![PlayerDetectioOnVideo](images/vid.png)
+
 
 
 ---
-
 ## Training Performance
-> 📷 **Insert 2 images**
+![ConfusionMatrix](images/cf.png)
+![PrecisionRecallCurve](images/pr.png)
+
+
 
 ---
 
 ## Keypoint Detection
-> 📷 **Insert 2 images**
+![KeyPointDetectionSample1](images/k1.png)
+![KeyPointDetectionSample2](images/k2.png)
+
 
 
 
