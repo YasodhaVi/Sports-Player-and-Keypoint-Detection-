@@ -143,7 +143,7 @@ Skeleton Visualization
 
 ## Keypoint Detection
 ![KeyPointDetectionSample1](images/k1.jpg)
-![KeyPointDetectionSample2](images/k2.jpg)
+![KeyPointDetectionSample2](images/k3.jpg)
 
 
 
