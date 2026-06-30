@@ -4,7 +4,7 @@ Cricket player detecting using YOLOv8 and player keypoint detection using OpenPo
 # 🏏 Cricket Player Detection and Keypoint Estimation using YOLOv8
 
 **DS5216 – Artificial Intelligence**  
-Programming Assignment II - 
+Programming Assignment II 
 
 This project develops a deep learning pipeline for **automatic cricket player detection** and **player pose estimation** from cricket videos. The system combines a custom-trained YOLOv8 object detector with a YOLOv8-Pose model to identify players and estimate their body keypoints, enabling further sports analytics applications.
 
