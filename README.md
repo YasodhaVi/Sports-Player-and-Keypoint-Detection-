@@ -122,8 +122,8 @@ Skeleton Visualization
 # Results
 
 ## Player Detection Examples
-![PlayerDetectioSample1](images/det1.png)
-![PlayerDetectioSample2](images/det2.png)
+![PlayerDetectionSample1](images/det1.jpg)
+![PlayerDetectionSample2](images/det2.jpg)
 
 ---
 
@@ -142,8 +142,8 @@ Skeleton Visualization
 ---
 
 ## Keypoint Detection
-![KeyPointDetectionSample1](images/k1.png)
-![KeyPointDetectionSample2](images/k2.png)
+![KeyPointDetectionSample1](images/k1.jpg)
+![KeyPointDetectionSample2](images/k2.jpg)
 
 
 
